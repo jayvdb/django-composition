@@ -20,7 +20,7 @@ setup(
     author='Alex Koshelev',
     author_email="daevaorn@gmail.com",
 
-    url="http://bitbucket.org/daevaorn/django-composition/",
+    url="https://github.com/daevaorn/django-composition",
 
     packages=[
         "composition",
